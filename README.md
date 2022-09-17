@@ -1,4 +1,35 @@
-# Expense
+# Expense Management System
+
+## It's going to track keep track on expenses. Users can enter their limited budget of the entire month in this application where when the user exceeds their given budget in the respective month will be notified.
+
+## Created By Adireddi Charan Teja
+
+## Feature list
+
+- Admin Login & Logout
+- Users Login & Logout
+- User Dashboard month wise expenses
+- User notifications
+- Chat bot
+
+## Angular features used
+
+- Modules
+- Routes
+- Services
+- Components
+- Browser Animations
+- Forms Module
+- Reactive Forms
+- Directives
+- Pipes
+- Filters
+
+## Libraries Used
+
+- W3CSS front end design
+- Font Awesome Icons
+- Toaster for success/error messages
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
 
@@ -25,4 +56,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-"# expenseUI" 
+"# expenseUI"
